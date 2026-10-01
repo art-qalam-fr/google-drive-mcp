@@ -7,3 +7,5 @@ gcp-oauth.keys.json
 token*.json
 credentials*.json
 *secret*.json
+*credentials*.json
+.*credentials*
