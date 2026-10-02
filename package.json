@@ -1,0 +1,15 @@
+{
+  "name": "google-drive-enhanced",
+  "version": "1.0.0",
+  "description": "Serveur MCP Google Drive Enrichi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "googleapis": "^140.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
